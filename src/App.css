@@ -1,0 +1,16 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    background-image: url(./images/nature.jpg);
+    background-position: center fixed;
+    background-size: cover;
+    margin: none;
+    padding: none;
+    position: relative;
+
+}
